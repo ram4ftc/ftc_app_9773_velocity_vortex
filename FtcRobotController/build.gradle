@@ -23,6 +23,7 @@ android {
 repositories {
     flatDir {
         dirs '../libs'
+        dirs '/Users/rsburugula/Documents/navx-micro/libs'
     }
 }
 
